@@ -1,0 +1,29 @@
+#txt_p{
+    color: brown;
+    /*bg-co:*/
+    background-color: aliceblue;
+    /*
+    color:yellow;
+    color: rgb(255,255,0);
+    colo: rgba(255,255,0, 1);
+    color: #rrggbb;
+    color: #ff0;
+    color:#ffff00; 
+    color: rgb(0,0,0) ;
+     color: rgb(255,255,255) ;
+     /*
+    m:10
+    */
+    margin: 10px;
+    /*margin: top right bottom left;*/
+    /*m10-20; 
+    margin: 10px 20px;*/
+    /*p5 */
+    padding: 5px;
+}
+
+    
+
+    
+
+
