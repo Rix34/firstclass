@@ -1,4 +1,4 @@
-#txt_p{
+w#txt_p{
     color: brown;
     /*bg-co:*/
     background-color: aliceblue;
@@ -19,11 +19,32 @@
     /*m10-20; 
     margin: 10px 20px;*/
     /*p5 */
-    padding: 6px;
+    /* padding: 6px; */
 }
 
+    /* =============cw4=============== */
+    body{
+        background-color:red ;
+        color:beige ;
+        font-family: Verdana,Tahoma,Arial;
+        font-size: 1.25em;
+        font-weight: 100;
+        font-style: italic;
     
+       
+     } 
 
-    
+     /* fonts.google.com */
+      /*    font-family: 'Indie Flower', cursive;
+
+            font-family: 'New Tegomin', serif; */
+            /* @import url("./fonty/dancingScript.ttf"); */
+            #txt{
+                height: 200px;
+                width: 300px;
 
 
+            }
+            
+
+  
